@@ -3,8 +3,93 @@
         background-image: 
         linear-gradient(90deg, yellow 50%, rgb(255, 238, 0) 50%);
             background-size: 40px 100%; /* Largura e altura das listras */
-            height: 20px; /* Altura da barra listrada */
-            
+            height: 20px; /* Altura da barra listrada */ 
+            margin-top: -20px;         
     }
-    
+    #save{
+        width: 70px;
+        height: 30px;
+        position: absolute;
+        top: 85px; 
+    }
+    #cancel{
+        width: 90px;
+        height: 30px;
+        position:absolute;
+        top: 85px;
+        left: 85px;
+    }
+    #edit{
+        width: 60px;
+        height: 30px;
+        position: absolute;
+        top: 85px;
+        left: 180px;
+    }
+    #savedraft{
+        position: absolute;
+        top: 85px;
+        left: 245px;
+        height: 30px;
+    }
+    #load{
+        position: absolute;
+        height: 30px;
+        top: 85px;
+        left: 350px;
+    }
+    #redondo{
+        position: absolute;
+        top: 85px;
+        left: 435px;
+        height: 30px;
+    }
+    #left{
+        position: absolute;
+        top: 85px;
+        left: 475px;
+        height: 30px;
+    }
+    #right{
+        position: absolute;
+        top: 85px;
+        height: 30px;
+        left:545px;
+    }
+    #check{
+        position: absolute;
+        top: 85px;
+        height: 30px;
+        left: 615px;
+    }
+    #tabelinha1{
+        position: absolute;
+        top: 85px;
+        height: 30px;
+        left: 675px;
+    }
+    #tabelinha2{
+        position: absolute;
+        top: 85px;
+        height: 30px;
+        left: 715px;
+    }
+    #tabelinha3{
+        position: absolute;
+        top: 85px;
+        height: 30px;
+        left: 755px;
+    }
+    #addfu{
+        top: 85px;
+        position: absolute;
+        height: 30px;
+        left: 795px;
+    }
+    #interrogacao{
+        position: absolute;
+        top: 85px;
+        height: 30px;
+        left: 98%;
+    }
 }
